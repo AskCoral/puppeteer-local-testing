@@ -1,0 +1,14 @@
+{
+  "name": "puppeteer-local-testing",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "puppeteer": "^19.4.1"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.2"
+  },
+  "scripts": {
+    "start": "node main.js"
+  }
+}
